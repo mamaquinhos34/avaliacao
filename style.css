@@ -1,0 +1,13 @@
+body{
+    background: white;
+}
+h1{
+    font-size: 80px;
+    color: blueviolet;
+    text-decoration: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-left: 150px;
+}
